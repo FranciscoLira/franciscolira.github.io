@@ -2580,7 +2580,7 @@
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #0089FF;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
@@ -3039,7 +3039,7 @@
 				-webkit-transition: opacity 1s ease;
 				-ms-transition: opacity 1s ease;
 				transition: opacity 1s ease;
-				background: rgba(49, 36, 80, 0.9);
+				background: rgba(5, 130, 202, 0.7);
 				content: '';
 				display: block;
 				height: 100%;
@@ -3250,11 +3250,11 @@
 			}
 
 		.wrapper.alt {
-			background-color: #261c3e;
+			background-color: #0B4F6C;
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #20BF55;
 		}
 
 		.wrapper.style1-alt {
@@ -3262,7 +3262,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #0582CA;
 		}
 
 		.wrapper.style2-alt {
@@ -3270,7 +3270,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #5BBA6F;
 		}
 
 		.wrapper.style3-alt {
@@ -3535,7 +3535,7 @@
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		background: #2274A5;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3772,14 +3772,14 @@
 			}
 
 			#sidebar nav a:before {
-				background: #3c2c62;
+				background: #0089FF;
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -webkit-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: linear-gradient(to right, #5e42a6, #b74e91);
+				background-image: -moz-linear-gradient(to right, #0089FF, #5BBA6F);
+				background-image: -webkit-linear-gradient(to right, #0089FF, #5BBA6F);
+				background-image: -ms-linear-gradient(to right, #0089FF, #5BBA6F);
+				background-image: linear-gradient(to right, #0089FF, #5BBA6F);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -3868,7 +3868,7 @@
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #b74e91;
+							background-color: #0089FF;
 						}
 
 		}
